@@ -1,3 +1,7 @@
+layout: page
+title: "Resume"
+permalink: /resume
+
 # Matt Wallace
 4809 N Paulina St #1 | Chicago, IL 60640 303-912-0873 | matthewrwallace@gmail.com
 
